@@ -13,7 +13,7 @@ pipeline {
             }
             
         }
-	//	stage('Deploy to Tomcatt'){
+
      //    steps(['tomcat-dev']) {
      //    sh 'sshpass -p Jenkins scp -o StrictHostKeyChecking=no webapp/target/*.war root@34.68.179.70:/opt/tomcat/webapps/'
 		 
