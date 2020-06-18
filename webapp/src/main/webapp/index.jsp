@@ -6,7 +6,7 @@
   <style>
   .center {
   text-align: center;
-  border: 10px solid skyblue;
+  border: 10px solid pink;
 }
     body {background-color: white;}
     h1 {color: blue;}
