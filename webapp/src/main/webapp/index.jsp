@@ -2,14 +2,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Page Title</title>
+  <title>Page Title1</title>
   <style>
   .center {
   text-align: center;
   border: 10px solid red;
 }
     body {background-color: white;}
-    h1 {color: Blue;}
+    h1 {color: red;}
     h3 {color: red;}
     p1 {color: Gren;}
     p2 {color:black;}
