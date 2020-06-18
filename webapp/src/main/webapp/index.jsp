@@ -9,7 +9,7 @@
   border: 10px solid red;
 }
     body {background-color: white;}
-    h1 {color: red;}
+    h1 {color: blue;}
     h3 {color: red;}
     p1 {color: Gren;}
     p2 {color:black;}
