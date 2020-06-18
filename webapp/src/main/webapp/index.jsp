@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Page Title</title>
+  <title>Page Title1</title>
   <style>
   .center {
   text-align: center;
